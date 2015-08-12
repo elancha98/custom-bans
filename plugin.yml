@@ -1,0 +1,12 @@
+name: CustomBans
+description: Simple
+version: 1.0
+author: CommandCraft
+main: me.commandcraft.CustomBan.Main
+
+commands:
+  cban:
+    description: used to punish players
+permission:
+  cb.inventory:
+    default: op
